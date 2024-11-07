@@ -124,6 +124,7 @@ main {
 .categoria-videos img:hover {
     transform: scale(1.05);
 }
+
 .ranking {
     text-align: center;
     margin: 20px;
